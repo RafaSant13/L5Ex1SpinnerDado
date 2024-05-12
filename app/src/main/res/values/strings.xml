@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">L5Ex1SpinnerDado</string>
+    <string name="tvQtdDados">Quantidade de dados:</string>
+    <string name="tvFaceDado">Quantidade de face do(s) dado(s):</string>
+    <string name="dado1">1 dado</string>
+    <string name="dado2">2 dados</string>
+    <string name="dado3">3 dados</string>
+    <string name="jogar">Jogar</string>
+    <string name="dado">Dado</string>
+
+</resources>
