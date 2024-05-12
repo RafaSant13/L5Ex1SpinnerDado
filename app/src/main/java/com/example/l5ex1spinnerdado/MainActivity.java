@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
             qtd = 3;
         }
         for (i = 1; i<=qtd; i++){
-            buffer.append("Dado " + i +": " + geraNumero(face) + "\n");
+            buffer.append(getString(R.string.dado)+" " + i +": " + geraNumero(face) + "\n");
         }
         tvResultado.setText(buffer.toString());
     }
